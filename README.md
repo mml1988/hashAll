@@ -1,2 +1,2 @@
 # hashAll
-hash all files in a root dir, support filter
+list all file's name,sha1,size in a root dir, support filter 
